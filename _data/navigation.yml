@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: https://aarohakafle.github.io/docs/_pages/about.md
+    url:/
   - title: "Posts"
     url: /year-archive/
   - title: "Collections"
