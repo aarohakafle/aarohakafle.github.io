@@ -34,5 +34,6 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
-
+This is Aaroha trying to develop a personal website. It will take some time to compelete it. Please be patient.
+😄.
 {% include feature_row %}
