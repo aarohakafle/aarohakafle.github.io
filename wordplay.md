@@ -1,7 +1,7 @@
 ---
 layout: page
 title: WORDPLAY
-publised: false
+published: false
 ---
 
 **Tihar** <br>
